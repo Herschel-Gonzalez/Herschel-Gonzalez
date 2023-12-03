@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 I am a systems engineering student from México.
 
-- :telescope: I’m working as a Support Engineer.
+- :telescope: I’m working as a React & Node JS Developer.
 
 - :seedling: Creating technology videos on YouTube.
 
