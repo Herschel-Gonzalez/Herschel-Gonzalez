@@ -18,7 +18,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a systems engineering student from México.
+I am a systems engineering from México.
 
 - :telescope: I’m working as a React & Node JS Developer.
 
